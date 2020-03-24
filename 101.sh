@@ -1,6 +1,6 @@
 #!/bin/sh
 # Stop CC3 SAP App Instance
-# AID 163073
+# Automation Plan ID 163073
 
 now=$(date +"%m_%d_%Y_%H%M%S")
 log=/opt/BESClient/CC3_STOPALL_$now.log
